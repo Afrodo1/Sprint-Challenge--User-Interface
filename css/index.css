@@ -70,6 +70,10 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+.navigation{
+    display: flex;
+    flex-wrap:wrap;
+}
 
 .top-content {
     display: flex;
