@@ -138,6 +138,11 @@ a:hover{
     justify-content: center;
     
 }
+.dot{
+    border-bottom: 1px dashed black;
+    margin-top: 5%;
+    
+}
 .one{
     background-color:teal;
 }
@@ -201,3 +206,62 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.Title{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    
+}
+.firstline{
+    display: flex;
+    margin-left: 2%;
+    
+    
+}
+.Strat{
+    margin-top: 4%;
+    
+    padding-right: 4%;
+    
+    
+}
+.How{
+    margin-top: 4%;
+    
+    
+}
+.secondline{
+    display:flex;
+    margin-left: 2%;
+}
+.places{
+    margin-top: 4%;
+    padding-right: 4%;
+    
+
+}
+.Collab{
+    margin-top: 4%;
+    
+
+}
+.end{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.learn{
+    border: 1px solid black;
+    padding: 2%;
+    border-radius: 10px;
+}
+.firstline p{
+    margin-bottom: 5%;
+}
+.secondline p{
+    margin-bottom: 5%;
+}
+/*border-bottom: 1px dashed black;*/
